@@ -7,7 +7,7 @@ const momenttz = require('moment-timezone');
 const MessageAdd = require('./db/message_add.js')
 const welcomeChannelName = "lobby";
 const byeChannelName = "svt";
-const welcomeChannelComment = "Welcome";
+const welcomeChannelComment = "bonjour";
 const byeChannelComment = "bye bye";
 
 client.on('ready', () => {
