@@ -1,0 +1,25 @@
+{
+  "name": "discoman",
+  "version": "1.0.0",
+  "description": "disco dj",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baekdavid/assistant-pronote.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "baekdavid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baekdavid/assistant-pronote/issues"
+  },
+  "homepage": "https://github.com/baekdavid/assistant-pronote#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
